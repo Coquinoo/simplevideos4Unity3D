@@ -4,4 +4,4 @@ Integrate very easily videos on your unity3D objects
 
 Videos should be in your Project folder in ogg format
 
-Sound is outside the video and you should start it independantly in an audio source
+Sound is located outside the video. I start it independantly in an audio source
