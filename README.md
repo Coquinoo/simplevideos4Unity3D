@@ -1,6 +1,5 @@
-# simplevideos4Unity3D
+# simplevideos4Unity3D : Integrate very easily videos on your Unity3D objects
 ======================
-Integrate very easily videos on your unity3D objects.
 
 Videos should be in your Project folder in ogg format.
 
