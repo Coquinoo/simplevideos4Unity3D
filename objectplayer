@@ -6,7 +6,7 @@ public class play : MonoBehaviour {
 	public float force = 12f;
 	//your audio of the video is stored in an audioSource
 	public AudioSource ses;
-	// Use this for initialization
+
 	void Start () {
 		
 	}
